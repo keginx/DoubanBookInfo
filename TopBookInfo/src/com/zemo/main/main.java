@@ -40,8 +40,8 @@ public class main {
 //                "David O'Hallaron", "机械工业出版社", "2011-1-1", "99.00元");
 //        BookDao.saveBook(book);
 
-
-        String str = " GBP 31.49";
+          /*测试非人民币价格字符串拆分拼接*/
+//        String str = " GBP 31.49";
 
     }
 }
